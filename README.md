@@ -2,7 +2,7 @@
 
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/CamiloATP/legion-del-mal-v3/ci.yml?cacheSeconds=60)
+![Workflow](https://img.shields.io/github/actions/workflow/status/CamiloATP/legion-del-mal-v3/ci.yml)
 ![Release](https://img.shields.io/github/v/release/CamiloATP/legion-del-mal-v3?cacheSeconds=60)
 ![Issues](https://img.shields.io/github/issues/CamiloATP/legion-del-mal-v3?cacheSeconds=60)
 ![Último commit](https://img.shields.io/github/last-commit/CamiloATP/legion-del-mal-v3?cacheSeconds=60)
